@@ -47,6 +47,12 @@ ul {
     padding: 0;
 }
 
-/* li {
+a {
+    text-decoration: none;
+    color: royalblue
+}
+
+li {
     display: flex;
-} */
+    
+}
